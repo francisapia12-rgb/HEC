@@ -1,0 +1,6 @@
+{
+  "name": "Harcourt Educational Consult",
+  "description": "Hierarchical academic learning platform organizing university courses, materials, tutorial videos, assignments, past questions, solutions, and expert tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
